@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghavendra-vaidya
+- 👋 Hi, I’m Raghavendra vaidya
 - 👀 I’m interested in Anything and everything related to test automation :)
 - 🌱 I’m currently learning DetoxJs
 - 📫 How to reach me :email-me at rkvaidya58@gmail.com
