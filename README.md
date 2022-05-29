@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghavendra vaidya
 - 👀 I’m interested in Anything and everything related to test automation :)
-- 🌱 I’m currently learning DetoxJs
+- 🌱 I’m currently learning serenity BDD, visual regression automation for mobile apps
 - 📫 How to reach me :email-me at rkvaidya58@gmail.com
 
 <!---
